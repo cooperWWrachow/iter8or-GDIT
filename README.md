@@ -15,8 +15,6 @@ Extra Functionality: User analytics (tracking actions of each user in order to d
 <h1>DEMOS</h1>
 
 <h3>Dashboard + Sidebar Navigation + User Menu</h3>
-![dash-ezgif com-speed](https://github.com/user-attachments/assets/b73d834b-4610-4262-8a7d-0d5b7e93fab5)
-
 
 <h3>Navbar Items</h3>
 
