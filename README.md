@@ -15,17 +15,32 @@ Extra Functionality: User analytics (tracking actions of each user in order to d
 <h1>DEMOS</h1>
 
 <h3>Dashboard + Sidebar Navigation + User Menu</h3>
-![ezgif com-video-to-gif-converter (4)](https://github.com/user-attachments/assets/49b8e4fc-ba2b-409a-9508-e36769aa39c3)
+
+![dash](https://github.com/user-attachments/assets/60a2018e-2bb1-464f-bad7-f6d0c1a0bc9c)
 
 <h3>Navbar Items</h3>
 
+![nav-items](https://github.com/user-attachments/assets/a1f79764-2261-4116-bdc0-3bc3a39e0539)
+
 <h3>Sprint Board</h3>
+
+![view-board](https://github.com/user-attachments/assets/43ef281b-093d-4a79-a0bf-1a5fc68c39b7)
 
 <h3>Card View</h3>
 
+![view-card](https://github.com/user-attachments/assets/9c214ade-89d7-4ec8-8424-47f3a335b810)
+
 <h3>User Analytics</h3>
+
+![chart](https://github.com/user-attachments/assets/f4a06b85-7cc2-438f-bc06-54087123146f)
 
 <h3>Feedback Center</h3>
 
+![feedback-center](https://github.com/user-attachments/assets/b45ae5d7-8e2e-4eb1-b202-80975a405987)
+![feedback-sub](https://github.com/user-attachments/assets/f010099d-76d9-4fed-a9d4-613a84d38026)
+
 <h3>Poll System</h3>
+
+![poll-center](https://github.com/user-attachments/assets/3cf1e8bf-68bb-4ab7-8735-806125fd367e)
+![poll-form](https://github.com/user-attachments/assets/140b92f4-004e-4d50-a39c-d7e855e3f3bc)
 
