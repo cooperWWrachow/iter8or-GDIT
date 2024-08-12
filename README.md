@@ -13,10 +13,9 @@ Each card is clickable, triggering a modal constining all of that card's informa
 Extra Functionality: User analytics (tracking actions of each user in order to develop a point system), feedback center, and a poll system.
 
 <h1>DEMOS</h1>
-![dash](https://github.com/user-attachments/assets/87d339d5-4ff1-4083-95a2-212db793063a)
 
 <h3>Dashboard + Sidebar Navigation + User Menu</h3>
-
+![ezgif com-video-to-gif-converter (4)](https://github.com/user-attachments/assets/49b8e4fc-ba2b-409a-9508-e36769aa39c3)
 
 <h3>Navbar Items</h3>
 
